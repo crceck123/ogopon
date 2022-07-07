@@ -1,2 +1,2 @@
-:123
-goto 123
+:crceck
+goto crceck
