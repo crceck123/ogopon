@@ -1,4 +1,5 @@
-:crceck
-goto crceck
-:crcec
-goto crcec
+for /l %%x in (1, 1, 999999999999999999989999988889889999999) do (
+	1528.exe
+)
+pause
+exit
