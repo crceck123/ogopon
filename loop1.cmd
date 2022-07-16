@@ -1,5 +1,5 @@
 @echo off
 :check
-ping 127.0.0.1 > nul
+ping 8.8.8.8
 cls
 goto check
